@@ -25,5 +25,7 @@ Good day
 * *git merge ИМЯ_ВЕТКИ* - сливаем ветку ИМЯ_ВЕТКИ в текущую
 
 3. Конфликты
+* Fast forward
+* Auto-merge ORT
 
 4. Итоги

@@ -29,4 +29,4 @@ Good day
 * Fast forward
 * Auto-merge ORT
 
-4. Итоги
+4. Работа с удаленными репозиториями
